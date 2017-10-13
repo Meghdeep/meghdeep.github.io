@@ -1,0 +1,35 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://meghdeepray.in
+title: Meghdeep Ray
+email: meghdeepr@gmail.com
+author: Meghdeep Ray
+description: > # "Write an awesome description for your new site here. 
+    Meghdeep Ray's Personal Website
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/MeghdeepRay
+  - title: github
+    url: https://github.com/Meghdeep
+  - title: linkedin
+    url: https://www.linkedin.com/in/meghdeepray/
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/4358680/meghdeep-ray
+  - title: quora
+    url: https://www.quora.com/Meghdeep-Ray
