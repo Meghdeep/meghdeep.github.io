@@ -23,13 +23,21 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: email
+    icon: envelope-o
+    url: mailto:meghdeepr@gmail.com
   - title: twitter
+    icon: twitter
     url: https://twitter.com/MeghdeepRay
   - title: github
+    icon: github
     url: https://github.com/Meghdeep
   - title: linkedin
+    icon: linkedin
     url: https://www.linkedin.com/in/meghdeepray/
-  - title: stack-overflow
+  - title: stack overflow
+    icon: stack-overflow
     url: https://stackoverflow.com/users/4358680/meghdeep-ray
   - title: quora
+    icon: quora
     url: https://www.quora.com/Meghdeep-Ray
